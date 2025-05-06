@@ -13,6 +13,6 @@ It uses **Pygments** for syntax highlighting and **wkhtmltopdf** for PDF generat
 
 ## Usage
 
-1.  Place the script in the directory containing the code files you want to convert.
+1.  Place the script convert.py in the directory containing the code files you want to convert.
 2.  Run it.
 3.  Yippee!
