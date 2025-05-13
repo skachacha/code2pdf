@@ -9,7 +9,7 @@ It uses **Pygments** for syntax highlighting and **wkhtmltopdf** for PDF generat
 * Python 3.x
 * Pygments: `pip install Pygments`
 * wkhtmltopdf: Download from [wkhtmltopdf.org](https://wkhtmltopdf.org/downloads.html)
-* Windows users can `winget install --id=wkhtmltopdf.wkhtmltox  -e`
+  * Windows users can `winget install --id=wkhtmltopdf.wkhtmltox  -e`
   * Make sure it's in your system's PATH.
 
 ## Usage
